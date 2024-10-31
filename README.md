@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @sanntintdev
-- 👀 I’m interested in web develpoment
-- 🌱 I’m currently learning reactjs ,nextjs , nodejs , laravel 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# Hello, I'm Sann Tint Aung 👋
+A Web Developer
 
-<!---
-sanntintdev/sanntintdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate web developer with extensive experience in both frontend and backend technologies.
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- Next.js
+- React.js
+- TypeScript 
+- TailwindCSS
+- Framer Motion
+
+### Backend
+- Node.js
+- NestJS
+- Express.js
+- PHP
+- Laravel
+
+### Database & Cloud
+- PostgreSQL
+- MySQL
+- MSSQL
+- Azure
+- AWS
+- Redis
+
+## 📫 Let's Connect
+- Portfolio: [coming soon..]
+- Email: [sanntintaung.dev@gmail.com]
+- LinkedIn: [www.linkedin.com/in/sann-tint-aung-81ab28247]
+
+---
+
+💼 Open to collaboration on interesting projects
